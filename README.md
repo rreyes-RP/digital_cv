@@ -3,9 +3,6 @@
 📱 201-250-1707 | ✉️ rpip91@gmail.com | 🔗 github.com/rreyes-RP/Projects | 🔗 linkedin.com/in/rorie-reyes-9580794b/ |
 🏠 481 Maple Avenue, Teaneck, NJ 07666
 
-## SUMMARY
-Software developer with a well-rounded engineering background. Started off as a hardware developer performing software testing on various products from defense technology, medical devices, and mainframes. Converted my role to a software developer by producing Python-based automation and full-stack development web tools. Led teams of technicians, apprentices, and entry-level engineers using agile methods to accomplish the company's bottom line.
-
 ## EDUCATION
 **Marist College** | Poughkeepsie, NY
 MS in Computer Science and Software Development | Expected Graduation May 2024
