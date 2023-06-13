@@ -1,7 +1,6 @@
-# Rorie Paul Reyes [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rorie-reyes-9580794b/)](https://www.linkedin.com/in/rorie-reyes-9580794b/)
+# Rorie Paul Reyes [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/rorie-reyes-9580794b/)](https://www.linkedin.com/in/rorie-reyes-9580794b/) [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rreyes-RP)](https://github.com/rreyes-RP/Projects)
 
-📱 201-250-1707 | ✉️ rpip91@gmail.com | 🔗 github.com/rreyes-RP/Projects | 🔗 linkedin.com/in/rorie-reyes-9580794b/ |
-🏠 481 Maple Avenue, Teaneck, NJ 07666
+📱 201-250-1707 | ✉️ rpip91@gmail.com | 🏠 481 Maple Avenue, Teaneck, NJ 07666
 
 ## EDUCATION
 **Marist College** | Poughkeepsie, NY
