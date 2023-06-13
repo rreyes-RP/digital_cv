@@ -48,7 +48,7 @@ Cumulative GPA: 2.7
 - Implemented a shake feature using the accelerometer on the iPhone to delete inputs.
 
 ## PATENTS AND AWARDS
-- Creating a Secure Volume | US11026324B2 | IBM | June 2021
-- Learned Silencing of Headphones for Improved Awareness | US20190095873A1 | IBM | May 2021
-- Gamification System Tracker of Baggage to Improve Transportation HUB Security | US10832272B2 | IBM | November 2020
-- Determining Validity of Service Recommendations | US20190095873A1 | IBM | March 2019
+- Creating a Secure Volume, US11026324B2, IBM, June 2021
+- Learned Silencing of Headphones for Improved Awareness, US20190095873A1, IBM, May 2021
+- Gamification System Tracker of Baggage to Improve Transportation HUB Security, US10832272B2, IBM, November 2020
+- Determining Validity of Service Recommendations, US20190095873A1, IBM, March 2019
