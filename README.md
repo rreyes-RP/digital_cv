@@ -41,11 +41,17 @@ Cumulative GPA: 2.7
 - Utilized HTML/CSS, JavaScript, and SQL as the relational database, all generated from Groovy code.
 - Users of this tool range from 100 employees through 5 departments.
 
-**PlusOne, iOS Gaming App | Marist** | January 2023 - April 2023
+**PlusOne, iOS Gaming App | Marist** | January 2023 - Present
 - Game presents the user with a four-digit number and must input another four digits by adding one to each digit.
 - Utilized Swift tools such as UIKit and InstantSearchVoiceOverlay to enhance user experience.
 - Implemented various user inputs using keyboard, buttons, and voice.
 - Implemented a shake feature using the accelerometer on the iPhone to delete inputs.
+
+**Augmented Reality Stopwatch App, iOS Augmented Reality App | Marist** | April 2023 - Present
+- Utilized ARKit to generate the augmented reality environment to allow the user to control a stopwatch 
+- App is currently in development as a fitness app to track user’s movements and workouts while using the stopwatch feature as a timer 
+- Prototyping  monitor movements features to be added to the application in order to detect performance in the exercises 
+
 
 ## PATENTS AND AWARDS
 - Creating a Secure Volume, US11026324B2, IBM, June 2021
