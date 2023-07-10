@@ -18,17 +18,17 @@ Cumulative GPA: 2.7
 ## EXPERIENCE
 ### IBM | January 2016 - Present
 **Software Developer, Band 8** | January 2021 - Present
-- Created and managed an enterprise web application using Groovy to keep track of processor chips, boosting daily productivity by 75%.
-- Supervised a team of two (front-end and back-end developers) that produced several web applications for an entire department.
-- Collaborated with cross-functional teams to strategize and design hardware focus tests, providing 10x test coverage.
-- Analyzed test data from data warehouses using SQL to generate high-level stakeholder reports, proving the increase of test coverage.
-- Created educational courses for new hires and apprentices, improving the learning curve by 50% and increasing work productivity.
-- Optimized team performance by 90% using agile techniques for entry-level engineers, apprentices, and technicians.
+- Designed and implemented a user-friendly web application using React and Node.js for efficient data entry and retrieval
+- Project Manager that led the planning of the architecture, design, and development of high performing web application tools
+- Collaborated with Product Management and cross-functional teams to strategize and implement hardware focus test that provided 10x coverage
+- Analyzed test data from data warehouses using SQL by generating high-level stakeholder reports to prove the increase of test coverage
+- Created educational courses for new hires and apprentices which improved the learning curve by 50% which increased work productivity
+- Optimized team performance by 90% using agile techniques and leading scrums while putting the values and interest of my colleagues as a high priority
 
 **Hardware Developer, Band 7** | July 2017 - December 2020
-- Owned the full-stack development of the department-wide enterprise web application tool that tracks 100% of the company's processor chips.
-- Built a RESTful API currently used by 100 users throughout 5 departments.
-- Utilized relational database and NoSQL methods to build tables and charts to verify the location of 100% of the company's processor chips, improving hardware installation efficiency by 90%.
+- Owned as the full-stack developer for the department wide enterprise web application tool that tracks 100% of the company's processor chips
+- Built a RESTful API that is currently used today by 100 users throughout 5 departments using HTML, CSS, and Javascript under a Groovy platform
+- Utilized relational database and NoSQL methods to build tables and charts to verify the location of 100% of the company's processor chips which improved the efficiency of hardware installation by 90%
 
 **Systems Engineer, Band 6** | January 2016 - July 2017
 - Developed a process to configure mainframes, improving productivity by 75% to match customer and test environments.
