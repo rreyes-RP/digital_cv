@@ -4,10 +4,10 @@
 
 ## EDUCATION
 **Marist College** | Poughkeepsie, NY
-MS in Computer Science and Software Development | Expected Graduation May 2024
+MS in Computer Science and Software Development, Expected Graduation May 2024
 
 **Fairleigh Dickinson University** | Teaneck, NJ
-BS in Electrical Engineering and Minor in Math and Computer Science | Graduation May 2014
+BS in Electrical Engineering and Minor in Math and Computer Science, Graduation May 2014
 
 ## SKILLS & TECHNICAL TOOLS
 **Languages:** Python, Java, C/C++, Swift, Kotlin, HTML/CSS, JavaScript, SQL, NoSQL, Groovy  
